@@ -1,0 +1,2 @@
+Vanzon 	https://testshop.vanzon.be/nl-be/all/	"VZ0X10003,VZ0X10002/Welkom123"
+De-Gaverbeek	https://gaverbeektest.azurewebsites.net	Sergey.Lazarenko@unilever.com/Unilever123*
